@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC1A0DB9-0AFB-4A20-93B0-CAFBE064A585}</ProjectGuid>
+    <ProjectGuid>{EDAA39A2-970B-4E67-871A-7C213C0FF3CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>HangmanGUI</RootNamespace>
     <AssemblyName>HangmanGUI</AssemblyName>
@@ -53,7 +53,6 @@
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

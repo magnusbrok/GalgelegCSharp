@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalgelegCSharp", "GalgelegCSharp.csproj", "{6D1BE9F1-77B7-40D5-8DC3-6392914DC5A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalgelegCSharp", "GalgelegCSharp.csproj", "{6D1BE9F1-77B7-40D5-8DC3-6392914DC5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "..\Game\Game.csproj", "{AC5FFEF9-A75E-4B98-B8C7-5C60576E51CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6D1BE9F1-77B7-40D5-8DC3-6392914DC5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1BE9F1-77B7-40D5-8DC3-6392914DC5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1BE9F1-77B7-40D5-8DC3-6392914DC5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5FFEF9-A75E-4B98-B8C7-5C60576E51CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5FFEF9-A75E-4B98-B8C7-5C60576E51CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5FFEF9-A75E-4B98-B8C7-5C60576E51CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5FFEF9-A75E-4B98-B8C7-5C60576E51CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
